@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @debugger-AI
-- 👀 I’m interested in data  
-- 🌱 I’m currently learning data science
+- 👀 I’m interested in data. 
+- Currently learning data science
 - 💞️ I’m looking to collaborate on machine learning,Artificial intelligence & data analysis.
 
 <!---
