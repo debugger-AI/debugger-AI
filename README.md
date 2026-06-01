@@ -1,6 +1,6 @@
 - @debugger-AI
 - 👀 data can lie btw
-- Currently learning data engineer,ML Engineering
+  data engineer x AI enginner x ML engineer
 
 <!---
 debugger-AI/debugger-AI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
